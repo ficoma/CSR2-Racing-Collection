@@ -45,6 +45,9 @@ This project ONLY includes official colors and rare imports colors. <br>
 This project is built for car collection, learning and communication purposes. Any commercial use is prohibited. <br>
 After a new version is released, cars from the previous version will be archived into the /Cars folder. <br>
 ****
+## Update to 3.3.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.3.0.png)
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/3.3.0-Elite%20Tokin.png)
 [![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V3.3.0-News.png)](https://csr-racing.com/en/posts/3-3-dev-update-and-europe-series-overview/)
 ****
 ## Update to 3.2.0
